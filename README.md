@@ -1,6 +1,6 @@
 # Implementación de Programación Concurrente en Bases de Datos NoSQL
 
-## Nota: Mi repositorio es:
+## Nota: Mi repositorio es: https://github.com/zmartand/noSqlConcurrencia.git
 
 ## Enunciado de la Práctica:
 
